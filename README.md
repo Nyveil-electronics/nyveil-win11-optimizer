@@ -1,6 +1,7 @@
 # Nyveil Optimization Tweaks for Windows 11
 
-A lightweight Windows utility that applies performance-focused system optimizations for gaming.
+A lightweight Windows utility based of the optimization script from Lyto11 that applies performance-focused system optimizations for gaming.
+https://github.com/lyto11/Performance-Tweaks-For-Win11
 
 This tool provides a simple GUI that allows users to selectively apply system tweaks related to CPU scheduling, GPU behavior, memory management, services, and Windows gaming features.
 
