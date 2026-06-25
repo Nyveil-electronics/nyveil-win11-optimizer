@@ -30,7 +30,6 @@ The application is built with a simple Tkinter-based GUI:
 - One-click apply system changes
 - Admin elevation support
 - Verification system to confirm applied changes
-- Reset function to restore default Windows settings
 
 ---
 
